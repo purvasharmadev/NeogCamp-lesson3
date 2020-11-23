@@ -13,10 +13,11 @@
 
 
 # Component Liabrary
-```
-Component Liabrary can be described as a folder that consists of all designed/styled parts of a website or piece of software. It helps designers to work in a consistent way and becomes very time efficient.
+
+Component Liabrary can be described as a folder that consists of all designed/styled parts of a website or piece of software.
+It helps designers to work in a consistent way and becomes very time efficient.
 for ex: Bootstrap, materilze css etc.
-``` 
+ 
 
 ### The above html and css file consits of various component that are useful in website designing like navbars, containers, links, lists etc
 
@@ -43,7 +44,7 @@ for ex: Bootstrap, materilze css etc.
 5. Navigation bar
     * with brand name
     * inline buttons
-    
+
 6. Header
     * Website header with text and photo
 
